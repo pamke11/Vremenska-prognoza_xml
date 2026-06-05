@@ -14,9 +14,9 @@ Ovo je samostalni projekt izrađen u svrhu Podatkovna povezanost i digitalna inf
 3. U `script.js` datoteci potrebno je imati vlastiti API ključ s [OpenWeatherMap](https://openweathermap.org/api) stranice.
 
 ## Screenshotovi
-PROGNOZA ->
-O PROJEKTU ->
-KONTAKT ->
+PROGNOZA -> prognoza.png
+O PROJEKTU -> o-projektu.png
+KONTAKT -> kontakt.png
 
 ## Autor
 David Pamić
