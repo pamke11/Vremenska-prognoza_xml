@@ -1,0 +1,6 @@
+Ime i prezime: [Tvoje Ime i Prezime]
+Naziv predmeta: [Naziv predmeta]
+Naziv projekta: Jednostavna aplikacija za vremensku prognozu
+
+Link na GitHub repozitorij: [Ovdje zalijepi link na svoj GitHub repozitorij]
+Link na YouTube video: [Ovdje zalijepi link na svoj YouTube video]
